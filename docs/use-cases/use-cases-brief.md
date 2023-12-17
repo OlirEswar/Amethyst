@@ -1,0 +1,31 @@
+# Use Cases
+- Time work period*
+  - See `execute-work-period.md`
+- Time break period
+  - See `time-break-period.md`
+- Manage to-dos
+  - See `manage-to-dos.md`
+- Select Game
+  - See `select-game.md`
+- Play Match-3 game*
+  - See `playing-match3-game.md`
+- Playing Minesweeper game
+  - see `playing-minesweeper-game.md`
+- Make Match-3 move
+  - see `making-match3-move.md`
+- Save Game Data
+  - see `save-data.md`
+- Load Game Data
+  - see `load-data.md`
+- Send Time Notifications
+  - see `send-time-notification.md`
+- Play Music
+  - see `play-music.md`
+- End Pomodoro Session
+  - see `end-session.md`
+- Configure Settings
+  - See `configure-settings.md`
+- Navigate App
+  - See `navigate-app.md`
+- Start Session
+  - see `start-session.md`

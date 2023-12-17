@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFAB51E3</color>
+    <color name="purple_500">#FF6818A5</color>
+    <color name="purple_700">#FF4A0A77</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white_theme">#FFFFFFFF</color>
+
+    <color name="dark_board">#999999</color>
+    <color name="light_board">#CCCCCC</color>
+
+    <!-- Gem Colors -->
+    <color name="red">#FF5252</color>
+    <color name="orange">#F57C00</color>
+    <color name="yellow">#FBC02D</color>
+    <color name="green">#B2FF59</color>
+    <color name="blue">#00B0FF</color>
+    <color name="purple">#651FFF</color>
+    <color name="white">#A89E9E</color>
+</resources>

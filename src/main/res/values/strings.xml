@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">Pomodoro Game</string>
+
+    <!-- Menu strings -->
+    <string name="start_button">START</string>
+    <string name="settings_button">SETTINGS</string>
+    <string name="menuBGContent">
+        Two collections of purple objects on the top and bottom, with a big
+        tear-dropped shaped amethyst with the word "Amethyst" in all caps.
+    </string>
+
+    <!-- Settings strings -->
+    <string name="settings_title">Settings and Stats</string>
+    <string name="placeholder">-</string>
+    <string name="return_button">Return to Menu</string>
+    <string name="wipe_game">Wipe game data</string>
+    <string name="wipe_stats">Wipe stats data</string>
+
+    <!-- Set Time strings -->
+    <string name="work_period_label">Work Period Length</string>
+    <string name="break_period_label">Break Period Length</string>
+    <string name="number_hints">(in minutes)</string>
+    <string name="confirm_label">Confirm</string>
+    <string name="err_zero_detected">Both fields must have a time!</string>
+    <string name="debug_jump">You\'ve jumped to the break period with:</string>
+
+    <!-- Work Period strings -->
+    <string name="pause_button">PAUSE</string>
+    <string name="unpause_button">UNPAUSE</string>
+    <string name="end_button">END</string>
+    <string name="finish_item">Finish</string>
+    <string name="delete_item">Delete</string>
+
+    <!-- Break Period strings -->
+    <string name="level_init_text">Level: 1</string>
+    <string name="score_init_text">Score: 0</string>
+    <string name="combo_init_text">Combo: 1x</string>
+    <string name="score_bar_ui">Score Bar UI</string>
+
+    <!-- Before Period strings -->
+    <string name="work_finished_title">Work period finished!</string>
+    <string name="work_finished_text">Ready to start the break?</string>
+    <string name="break_finished_title">Break period finished!</string>
+    <string name="break_finished_text">Ready to start working?</string>
+
+    <!-- Tutorial strings -->
+    <string name="close_tutorial">Close Tutorial</string>
+    <string name="tutorial_text_1">The aim of the game is to score points by swapping two adjacent gems on the board, creating matches.</string>
+    <string name="tutorial_text_2">A valid match is three or more gems of the same color in a row, horizontally or vertically.</string>
+    <string name="tutorial_text_3">When you make valid moves, your combo goes up which increases your score. Use this to score as many points as you can!</string>
+    <string name="tutorial_title">Tutorial</string>
+    <string name="show_tutorial">Show Tutorial</string>
+    <string name="hide_tutorial">Hide Tutorial</string>
+
+    <!-- Stats strings -->
+    <string name="completed_work_periods">Number of Completed Work Periods:</string>
+    <string name="completed_break_periods">Number of Completed Break Periods:</string>
+    <string name="remaining_to_dos">Number of Remaining To Do Items</string>
+    <string name="completed_to_dos">Number of Completed To Do Items</string>
+    <string name="deleted_to_dos">Number of Deleted To Do Items</string>
+    <string name="finish">Finish Session</string>
+    <string name="totalWorkTime">Total Work Time</string>
+    <string name="totalBreakTime">Total Break Time</string>
+
+    <!-- To Do strings -->
+    <string name="add_to_do">Add</string>
+    <string name="enter_to_do">Enter a to-do item!</string>
+    <string name="error_no_to_do">Name of to-do is blank!</string>
+</resources>
